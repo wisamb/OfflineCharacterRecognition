@@ -1,0 +1,2 @@
+# OfflineCharacterRecognition
+Work in progress
