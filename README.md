@@ -45,11 +45,14 @@ Looking at the distribution of each character, there is little variability on av
     <td>20.0</td>
   </tr>
 </table>
+
 <table>
   <tr>
-    <th><img src="/images/image003.png"></th>
-    <th><img src="/images/image004.png"></th>
-    <th><img src="/images/image005.png"></th>
-    <th><img src="/images/image006.png"></th>
+    <td><img src="/images/image003.png"></td>
+    <td><img src="/images/image004.png"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/image005.png"></td>
+    <td><img src="/images/image006.png"></td>
   </tr>
 </table>
