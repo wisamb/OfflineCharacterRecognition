@@ -6,7 +6,6 @@
 Neural Networks<br>
 SVM<br>
 kNN<br>
-PCA<br>
 Cluster Analysis<br>
 Exploratory Analysis
 
