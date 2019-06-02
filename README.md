@@ -16,7 +16,7 @@ Handwriting is unique to every individual. The ability to systematically recogni
 
 ## Exploratory Analysis
 
-There are two files, one with labeled data containing 1,000 observations and one with unlabeled data containing 10,000 observations. Both files contain 3,136 predictor variables (Pixel.1 to Pixel.3136), all of which were binary variables containing only 0 or 1. When consumed as a unit, these predictor variables form a 56 x 56 image of the represented digit. There are no missing values in this dataset.
+The data contains 11,000 rows and 3,136 predictor variables (Pixel.1 to Pixel.3136), all of which were binary variables containing only 0 or 1. When consumed as a unit, these predictor variables form a 56 x 56 image of the represented digit. There are no missing values in this dataset.
 
 Sample of plotted letters and numbers are provided below. 
 
@@ -26,14 +26,5 @@ Looking at the distribution of each character, there is little variability on av
 
 <div align=center><img src="/images/image002.png"></div>
 
-### Letter Similarities
+## Model Analysis
 
-<div align=center><img src="/images/image003.jpg"></div>
-
-Rules
-
-•	5 and S: square top = 5, rounded top = S
-•	6 and G: square bottom = G, round bottom = 6
-•	2 and Z: curved bottom = Z, else = 2
-•	1 and I: tilted =1, else = I. 
-•	0 and O: tall circle = 0, round/wide circle = O
