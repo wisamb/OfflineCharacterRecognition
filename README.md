@@ -27,3 +27,29 @@ Looking at the distribution of each character, there is little variability on av
 
 ## Model Analysis
 
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Test Error Rate (%)</th>
+  </tr>
+  <tr>
+    <td>kNN</td>
+    <td>31.3</td>
+  </tr>
+  <tr>
+    <td>NNET</td>
+    <td>33.9</td>
+  </tr>
+  <tr>
+    <td>SVM</td>
+    <td>20.0</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th><img src="/images/image003.png"></th>
+    <th><img src="/images/image004.png"></th>
+    <th><img src="/images/image005.png"></th>
+    <th><img src="/images/image006.png"></th>
+  </tr>
+</table>
