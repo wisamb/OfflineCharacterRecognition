@@ -24,7 +24,7 @@ Sample of plotted letters and numbers are provided below.
 
 Looking at the distribution of each character, there is little variability on average in how people draw their characters. 1's and K's seem to have the widest distributions while 9's and J's have the smallest. Furthermore, there are few outliers in this dataset and some characters have no outliers at all.
 
-<div align=center><img src="/images/image002.png"></div>
+<div align=center><img src="/images/image002.png" width="70%"/></div>
 
 ## Model Analysis
 
